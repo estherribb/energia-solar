@@ -20,7 +20,7 @@ justify-content: space-between;
 }
 
 .cartao:hover{
-    background-color: aliceblue;
+    background-color:blueviolet;
 }
 .cartao--resposta{
     font-size: 20px;
