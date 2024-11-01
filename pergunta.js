@@ -10,11 +10,4 @@ criarCartao(
     "como é feito um painel solar?",
     "Os painéis são basicamente formados por células feitas de materiais semicondutores como o silício, chamadas de células fotovoltaicas"
 )
-criarCartao(
-    "",
-    ""
-)
-criarCartao(
-    "",
-    ""
-)
+
