@@ -13,6 +13,4 @@ cartao.innerHTML =`<div class="cartao--conteudo">
 
             conteudo.appendChild(cartao)
 }
-
-
 criarCartao(1,2)
