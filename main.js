@@ -5,10 +5,8 @@ let cartao = document.createElement('article')
 cartao.classList = 'cartao'
 
 cartao.innerHTML =`<div class="cartao--conteudo">
-            <div class="cartao--pergunta">É possível gerar energia para
-                outras residências com apenas
-                uma usina solar?</div>
-                <div class="cartao--reposta">A “geração compartilhada” neste contexto significa que duas ou mais residências, apartamentos, empresas ou propriedades em geral podem se beneficiar da mesma energia solar gerada por uma única unidade geradora</div>
+            <div class="cartao--pergunta"><p>${pergunta}/p</div>
+                <div class="cartao--reposta"><p>${resposta}</p></div>
             </div>`
 
             conteudo.appendChild(cartao)
